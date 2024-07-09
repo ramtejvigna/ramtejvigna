@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vigna Ramtej Telagarapu</h1>
 <h3 align="center">A passionate Full Stack developer and Data Scientist from India</h3>
 
+<img src="" alt="Vigna Ramtej">
 
 - 🌱 I’m currently learning **Data Science and Python Web Frameworks**
 
