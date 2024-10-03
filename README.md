@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Python Web Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://vignaramtej.github.io/Portfolio/](https://vignaramtej.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ramtej.vercel.app/)
 
 - 📫 How to reach me **vignaramtejtelagarapu@gmail.com**
 
