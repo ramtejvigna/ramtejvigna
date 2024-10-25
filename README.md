@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ramtej.vercel.app/)
 
-- 📫 How to reach me **vignaramtejtelagarapu@gmail.com**
+- 📫 How to reach me **vignaramtej46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
