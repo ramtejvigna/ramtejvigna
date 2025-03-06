@@ -6,9 +6,9 @@ A Full Stack Developer and Data Scientist, passionate about AI-driven solutions 
 <img src="1698518320830.jpeg" alt="Vigna Ramtej">
 
 ### 🔭 I'm currently working on  
+- **CodeBattleGround**: CodeBattleGround is an interactive platform designed for coding enthusiasts to engage in **real-time programming challenges and competitions**. It offers a diverse range of problems, from beginner to advanced levels, fostering skill development and competitive spirit. The project aims to create a **collaborative and stimulating environment** for coders to test, learn, and grow their programming expertise.
 - **Sentiment Analysis Project**: Implementing text and image classification using computer vision for a web-based application.  
 - **FocusFlow**: A productivity-enhancing web application designed to help users stay focused, manage tasks efficiently, and improve time management. The platform integrates AI-powered techniques, including the **Pomodoro Technique, task prioritization, and deep work strategies**, to optimize workflow.
-- **CodeBattleGround**: CodeBattleGround is an interactive platform designed for coding enthusiasts to engage in **real-time programming challenges and competitions**. It offers a diverse range of problems, from beginner to advanced levels, fostering skill development and competitive spirit. The project aims to create a **collaborative and stimulating environment** for coders to test, learn, and grow their programming expertise.
 - **AgriConnect AI**: Building an AI-powered agricultural platform for market access, sustainability recommendations, and crop health monitoring.  
 
 ### 👯 Looking to collaborate on  
