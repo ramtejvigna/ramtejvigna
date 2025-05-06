@@ -13,7 +13,7 @@ A Full Stack Developer and Data Scientist, passionate about AI-driven solutions 
 
 ### 👯 Looking to collaborate on  
 - **AI/ML research projects** in healthcare, agriculture, and finance.  
-- **Full Stack web development** using **MERN/MEAN stack**.  
+- **Full Stack web development** using **MERN/MEAN stack** & **Next.js**.  
 - **AI-powered voice assistants and speech recognition systems**.  
 
 ### 🤝 I am looking for help with  
