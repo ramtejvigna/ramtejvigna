@@ -2,10 +2,6 @@
 
 A Full Stack Developer and Data Scientist, passionate about AI-driven solutions and building innovative web applications. I specialize in **Machine Learning, Full Stack Development, and AI-powered platforms** to solve real-world problems.
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=ramtejvigna&theme=highcontrast&card_width=985"/>
-</p>
-
 ### 🔭 I'm currently working on  
 - **CodeBattleGround**: CodeBattleGround is an interactive platform designed for coding enthusiasts to engage in **real-time programming challenges and competitions**. It offers a diverse range of problems, from beginner to advanced levels, fostering skill development and competitive spirit. The project aims to create a **collaborative and stimulating environment** for coders to test, learn, and grow their programming expertise.
 - **Sentiment Analysis Project**: Implementing text and image classification using computer vision for a web-based application.  
